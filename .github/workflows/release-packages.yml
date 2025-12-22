@@ -39,6 +39,7 @@ jobs:
         branch:
           - openwrt-23.05
           - openwrt-24.10
+          - openwrt-25.12
           - SNAPSHOT
         exclude:
           - arch: aarch64_cortex-a76
