@@ -106,11 +106,3 @@ make package/luci-app-nikki/compile
 
 - [@ApoisL](https://github.com/apoiston)
 - [@xishang0128](https://github.com/xishang0128)
-
-## 推荐机场
-
-推荐 Perfect Link
-
-路线全 IEPL、落地全 Akari 的机场，靠谱好用
-
-[官网](https://perfectlink.io) | [客服](https://t.me/PerfectlinksupportBot)

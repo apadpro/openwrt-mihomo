@@ -106,11 +106,3 @@ The package files will be found under `bin/packages/your_architecture/nikki`.
 
 - [@ApoisL](https://github.com/apoiston)
 - [@xishang0128](https://github.com/xishang0128)
-
-## Recommended Proxy Provider
-
-Perfect Link is recommended
-
-All route on IEPL, All exit node at Akari, reliable and easy to use
-
-[Official Website](https://perfectlink.io) | [Customer Service](https://t.me/PerfectlinksupportBot)
